@@ -1,0 +1,86 @@
+# Python + LLM Agent 开发 84天学习计划
+
+- **Day1**：安装 Python + VSCode + 插件，配置环境  
+- **Day2**：变量、数据类型、print、输入输出  
+- **Day3**：条件判断 if/else  
+- **Day4**：for / while 循环  
+- **Day5**：列表 list、字典 dict（重中之重）  
+- **Day6**：字符串操作、切片  
+- **Day7**：复习 + 写 3 个小练习（计算器、成绩统计、循环打印）
+- **Day8**：函数 def、参数、返回值  
+- **Day9**：作用域、默认参数、不定长参数  
+- **Day10**：异常处理 try/except  
+- **Day11**：文件读写 txt / csv  
+- **Day12**：JSON 处理（API 必用）  
+- **Day13**：模块与 import  
+- **Day14**：做一个小工具：读取文件 → 处理 → 输出结果
+- **Day15**：pip 安装库、requirements.txt  
+- **Day16**：requests 库：发送 HTTP 请求  
+- **Day17**：爬取简单网页（练手感）  
+- **Day18**：pandas 基础：读取 Excel/CSV  
+- **Day19**：pandas 筛选、过滤、统计  
+- **Day20**：pandas 分组、排序、简单计算  
+- **Day21**：小项目：Excel 自动分析器
+- **Day22**：Git 安装 + 注册 GitHub  
+- **Day23**：git add / commit / push  
+- **Day24**：克隆别人项目、跑起来  
+- **Day25**：venv 虚拟环境（必须会）  
+- **Day26**：看懂别人代码结构  
+- **Day27**：写一个规范小项目  
+- **Day28**：阶段测试：能独立跑 GitHub 上任意 Python AI 项目
+- **Day29**：AI/LLM 基础概念（不用学数学）  
+- **Day30**：注册一个大模型平台（DeepSeek / 通义千问 / 硅基流动）  
+- **Day31**：获取 API Key  
+- **Day32**：用 Python 调用大模型接口  
+- **Day33**：上下文、对话历史实现  
+- **Day34**：temperature、top_p 等参数理解  
+- **Day35**：做一个简单聊天机器人
+- **Day36**：清晰指令结构  
+- **Day37**：少样本学习（Few-shot）  
+- **Day38**：思维链 CoT  
+- **Day39**：格式约束（输出 JSON）  
+- **Day40**：长文本处理  
+- **Day41**：幻觉规避  
+- **Day42**：写 10 个高质量 Prompt
+- **Day43**：什么是 Function Calling  
+- **Day44**：定义工具、传参  
+- **Day45**：让 AI 自动选择工具  
+- **Day46**：实现：查天气、查时间、计算器  
+- **Day47**：实现：调用数据库查询  
+- **Day48**：实现：调用接口获取订单  
+- **Day49**：做一个带工具的问答机器人
+- **Day50**：FastAPI 安装  
+- **Day51**：写第一个接口  
+- **Day52**：GET/POST、参数校验  
+- **Day53**：返回 JSON  
+- **Day54**：把 LLM 封装成接口  
+- **Day55**：把 Function Calling 封装成接口  
+- **Day56**：用 Postman 测试接口
+- **Day57**：LangChain 安装 & 核心概念  
+- **Day58**：PromptTemplate  
+- **Day59**：ChatModel + 记忆  
+- **Day60**：Document Loader  
+- **Day61**：文本切分 RecursiveCharacterTextSplitter  
+- **Day62**：Embedding 模型  
+- **Day63**：向量库（Chroma）
+- **Day64**：RAG 整体流程  
+- **Day65**：文档加载 → 分块 → 向量存储  
+- **Day66**：检索器 retriever  
+- **Day67**：检索 + 生成  
+- **Day68**：RAG 优化（重排、上下文压缩）  
+- **Day69**：多文档问答  
+- **Day70**：做一个企业知识库 RAG 系统
+- **Day71**：Agent 是什么、工作流程  
+- **Day72**：ReAct 原理  
+- **Day73**：LangChain Agent 基础使用  
+- **Day74**：自定义 Tool  
+- **Day75**：Agent + RAG 结合  
+- **Day76**：多步执行、错误处理  
+- **Day77**：Agent 记忆、状态管理
+- **Day78**：结构化输出（JSON）  
+- **Day79**：工作流（Workflow）  
+- **Day80**：异步、并发  
+- **Day81**：日志、监控  
+- **Day82**：安全、过滤、权限  
+- **Day83**：Docker 简单打包  
+- **Day84**：能独立开发一个完整 Agent 系统
